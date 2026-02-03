@@ -1,6 +1,9 @@
 [submodule "next-version"]
 	path = next-version
 	url = git@github.com:carolaine-vieira/lumis.git
+	 branch = main
+	 
 [submodule "vanilla-version"]
 	path = vanilla-version
 	url = git@github.com:carolaine-vieira/lumis-vanilla-version.git
+	 branch = main
