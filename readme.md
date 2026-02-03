@@ -21,7 +21,7 @@ Bom, meu nome é Carolaine Vieira (imagino que seja redundante) e eu estou **MUI
 
  ## Repositórios
 
- Este link é de um repositório com submodulos que apontam para os respectivos repositórios. Mas deixaria listado abaixo por comodidade:
+ Este link é de um repositório com submodulos que apontam para os respectivos repositórios. Mas deixarei listado abaixo por comodidade:
 
  - Next.js: [https://github.com/carolaine-vieira/lumis](https://github.com/carolaine-vieira/lumis)
  - VanillaJS: [https://github.com/carolaine-vieira/lumis-vanilla-version](https://github.com/carolaine-vieira/lumis-vanilla-version)
